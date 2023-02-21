@@ -1,0 +1,14 @@
+h1{
+    color:peru;
+    font-family: 'Mynerve', cursive;
+    text-align:right;
+}
+h2{
+    color:blue;
+    font-family: 'Roboto', sans-serif;
+    text-align:center;
+     background-color: aqua;
+}
+body{
+    background-color:white;
+}
